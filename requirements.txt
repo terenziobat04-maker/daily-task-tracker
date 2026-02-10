@@ -1,0 +1,6 @@
+# No external dependencies required for basic tkinter version
+# tkinter comes built-in with Python
+
+# If you want to enhance the application later, you can add:
+# matplotlib==3.5.1  # For data visualization
+# pandas==1.3.5      # For data analysis
